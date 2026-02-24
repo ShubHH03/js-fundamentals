@@ -18,5 +18,5 @@
 // })();
 
 ( (name) => {                                       // un-named IIFE with parameter
-    console.log(`DB CONNECTED TWO ${name}`);
+    console.log(`DB CONNECTED to ${name}`);
 } )('max')
