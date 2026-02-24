@@ -1,5 +1,7 @@
 // Immediately Invoked Function Expressions (IIFE)
-// IIFE are typically used to create a local scope for variables to prevent them from polluting the global scope.
+// IIFE are typically used to create a local scope 
+// for variables to prevent them from 
+// polluting the global scope.
 
 // Syntax:
 // (function (){ 
